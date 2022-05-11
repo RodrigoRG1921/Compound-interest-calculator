@@ -1,0 +1,23 @@
+
+.formBox{
+    border: 1px solid grey;
+    width:225px;
+    margin:auto;
+    padding: 15px;
+    background-color: #DFD8D6;
+    
+
+}
+.inputEdit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    height: 20px;
+    
+}
+p{
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
